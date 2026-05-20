@@ -16,8 +16,17 @@ becoming unaffordable and where opportunity still exists.
 - **Tableau Public** — interactive affordability dashboard (live link)
 - **Dataset** — Zillow Research Data + US Census ACS income data (public)
 
+## Key Findings
+
+1. **35% of 493 major US cities** are above the 5x unaffordability threshold
+2. **Santa Monica at 20.9x** — a household would need 21 years of full income to buy
+3. **West averages 6.8x vs Midwest 2.8x** — a 2.4x regional affordability gap
+4. **Hawaii (8.6x) and California (7.7x)** are the least affordable states
+5. **Ohio (1.9x) and Mississippi (1.9x)** are the most affordable states
+6. **106 cities classified as Buy Opportunity** — affordable price-to-income with real home values
+
 ## Status
-🔄 In Progress
+✅ Complete — Python Analysis + 4 Visualizations
 
 ## Author
 Cynthia Wanjiku Ng'ang'a | Business Analytics Graduate Student
